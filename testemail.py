@@ -9,7 +9,7 @@ def sendemail():
 
     # Configure API key authorization: api-key
     configuration = sib_api_v3_sdk.Configuration()
-    configuration.api_key['api-key'] = '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'
+    configuration.api_key['api-key'] = ''
 
     # Uncomment below lines to configure API key authorization using: partner-key
     # configuration = sib_api_v3_sdk.Configuration()
