@@ -122,9 +122,3 @@ def sendemail(sender_name, sender_email, to_name, to_email):
 if __name__ == '__main__':
     moodle_user_create('suhassankolli@gmail.com', 'shilpa', 'sankolli')
     #moodle_user_test()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
